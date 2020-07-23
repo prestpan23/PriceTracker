@@ -1,2 +1,2 @@
 # PriceTracker
-A price tracker for amazon.ca
+A price tracker for ebay.ca
